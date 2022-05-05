@@ -69,6 +69,13 @@ cargo run
 
 For more examples take a look on [Macroquad examples folder](https://github.com/not-fl3/macroquad/tree/master/examples)
 
+To run an example, make sure you are in the examples directory and run:
+```bash
+cargo run --release --example <EXAMPLENAME>
+# example:
+cargo run --release --example rustaceanmark
+```
+
 ### linux
 
 ```bash
